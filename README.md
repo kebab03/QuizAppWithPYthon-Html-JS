@@ -7,6 +7,8 @@ We use Python flask to create API
 Ms-Sql for Data Base
 
 Html and CSS for UI
-  puoi usato il codice di https://github.com/kebab03/Quiz_with_HtmL-Js- con questo codice
+  puoi usare  il codice di https://github.com/kebab03/Quiz_with_HtmL-Js- con questo codice
+
+  oppure  usare   https://github.com/sinsys/quiz-app-remastered/
 
 NoJavascript required.
