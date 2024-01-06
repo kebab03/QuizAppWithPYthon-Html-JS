@@ -1,6 +1,6 @@
 # Quiz-Application-with-Python--Flask-Ms-Sql-Html-and-CSS
 
-
+Ho usato il codice di https://github.com/vemularohit/Quiz-Application-with-Python--Flask-Ms-Sql-Html-and-CSS/ 
 
 We use Python flask to create API
 
